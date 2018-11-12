@@ -1,7 +1,7 @@
 # simple_posting_ios_application
-Simple app that handles authentication and posting.
+Simple iOS application that handles authentication and posting.
 
-My goals with this project was to train:
+My goals with this project was to train my:
 - iOS Development skills
 - Xcode skills
 - Firebase skills
