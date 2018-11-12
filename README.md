@@ -5,7 +5,7 @@ My goals with this project was to train my:
 - iOS Development skills
 - Xcode skills
 - Firebase skills
-- Auto layout constraints
+- Auto layout constraints skills
 
 The pod files used in this project are not included in this repository. However, the pods used were:
 - pod 'Firebase/Core'
